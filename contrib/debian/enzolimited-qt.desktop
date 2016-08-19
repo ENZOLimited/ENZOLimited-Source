@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=enzolimited
+Comment=enzolimited P2P Cryptocurrency
+Comment[fr]=enzolimited, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=enzolimited, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/enzolimited-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/enzolimited;
+Categories=Office;
